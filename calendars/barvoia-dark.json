@@ -1,0 +1,183 @@
+{
+  "id": "barovia-dark-calendar",
+  "translations": {
+    "en": {
+      "label": "Barovia Dark Ages Calendar",
+      "description": "A calendar for Bravoia Dark Ages.",
+      "setting": "The Kingdom of Bravoia"
+    }
+  },
+  "year": {
+    "epoch": 350,
+    "currentYear": 735,
+    "prefix": "Year ",
+    "suffix": " da",
+    "startDay": 0
+  },
+  "leapYear": {
+    "rule": "none"
+  },
+  "months": [
+    {
+      "name": "Yinvar",
+      "abbreviation": "Yin",
+      "days": 28
+    },
+    {
+      "name": "Fivral",
+      "abbreviation": "Fiv",
+      "days": 28
+    },
+    {
+      "name": "Mari",
+      "abbreviation": "Mar",
+      "days": 28
+    },
+    {
+      "name": "Apryl",
+      "abbreviation": "Apr",
+      "days": 28
+    },
+    {
+      "name": "Mai",
+      "abbreviation": "Mai",
+      "days": 28
+    },
+    {
+      "name": "Eyune",
+      "abbreviation": "Eyn",
+      "days": 28
+    },
+    {
+      "name": "Eyule",
+      "abbreviation": "Eyl",
+      "days": 28
+    },
+    {
+      "name": "Avgust",
+      "abbreviation": "Avg",
+      "days": 28
+    },
+    {
+      "name": "Sintyavaar",
+      "abbreviation": "Sin",
+      "days": 28
+    },
+    {
+      "name": "Octyavr",
+      "abbreviation": "Oct",
+      "days": 28
+    },
+    {
+      "name": "Neyavr",
+      "abbreviation": "Ney",
+      "days": 28
+    },
+    {
+      "name": "Dekavr",
+      "abbreviation": "Dek",
+      "days": 28
+    }
+  ],
+  "weekdays": [
+    {
+      "name": "Mournsday",
+      "abbreviation": "Mou"
+    },
+    {
+      "name": "Newbournday",
+      "abbreviation": "New"
+    },
+    {
+      "name": "Fastday",
+      "abbreviation": "Fas"
+    },
+    {
+      "name": "Restday",
+      "abbreviation": "Res"
+    },
+    {
+      "name": "Hexday",
+      "abbreviation": "Hex"
+    },
+    {
+      "name": "Elderday",
+      "abbreviation": "Eld"
+    },
+    {
+      "name": "Darksday",
+      "abbreviation": "Dar"
+    }
+  ],
+  "intercalary": [
+  ],
+  "seasons": [
+    {
+      "name": "Winter",
+      "startMonth": 1,
+      "endMonth": 3,
+      "icon": "winter"
+    },
+    {
+      "name": "Spring",
+      "startMonth": 4,
+      "endMonth": 6,
+      "icon": "spring"
+    },
+    {
+      "name": "Summer",
+      "startMonth": 7,
+      "endMonth": 9,
+      "icon": "summer"
+    },
+    {
+      "name": "Autumn",
+      "startMonth": 10,
+      "endMonth": 12,
+      "icon": "fall"
+    }
+  ],
+  "moons": [
+    {
+      "name": "Mothers Eye",
+      "cycleLength": 28,
+      "firstNewMoon": { "year": 1, "month": 1, "day": 11 },
+      "phases": [
+        { "name": "New Moon", "length": 2, "singleDay": false, "icon": "new" },
+        {
+          "name": "Waxing Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        { "name": "First Quarter", "length": 3, "singleDay": false, "icon": "first-quarter" },
+        {
+          "name": "Waxing Gibbous",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        { "name": "Full Moon", "length": 3, "singleDay": false, "icon": "full" },
+        {
+          "name": "Waning Gibbous",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        { "name": "Last Quarter", "length": 3, "singleDay": false, "icon": "last-quarter" },
+        {
+          "name": "Waning Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        },
+        { "name": "Old Moon", "length": 1, "singleDay": true, "icon": "new" }
+      ]
+    }
+  ],
+  "time": {
+    "hoursInDay": 24,
+    "minutesInHour": 60,
+    "secondsInMinute": 60
+  }
+}

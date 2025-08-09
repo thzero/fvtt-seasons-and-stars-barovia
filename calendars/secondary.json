@@ -1,0 +1,178 @@
+{
+  "id": "barovia-calendar-extended",
+  "translations": {
+    "en": {
+      "label": "Barovia Calendar Extended",
+      "description": "A calendar for Bravoia based on http://www.scabard.com/pbs/campaign/1127128/note/2519524",
+      "setting": "The Kingdom of Bravoia"
+    }
+  },
+  "year": {
+    "epoch": 0,
+    "currentYear": 735,
+    "prefix": "Year ",
+    "suffix": " da",
+    "startDay": 0
+  },
+  "leapYear": {
+    "rule": "none"
+  },
+  "months": [
+    {
+      "name": "Yinyavr",
+      "abbreviation": "Yin",
+      "days": 28
+    },
+    {
+      "name": "Fenravr",
+      "abbreviation": "Fen",
+      "days": 28
+    },
+    {
+      "name": "Martavr",
+      "abbreviation": "Mar",
+      "days": 28
+    },
+    {
+      "name": "Pyrlia",
+      "abbreviation": "Pyr",
+      "days": 28
+    },
+    {
+      "name": "Mada",
+      "abbreviation": "Mad",
+      "days": 28
+    },
+    {
+      "name": "Eyun",
+      "abbreviation": "Eyn",
+      "days": 28
+    },
+    {
+      "name": "Eyul",
+      "abbreviation": "Eyl",
+      "days": 28
+    },
+    {
+      "name": "Ugavr",
+      "abbreviation": "Uga",
+      "days": 28
+    },
+    {
+      "name": "Sintavr",
+      "abbreviation": "Sin",
+      "days": 28
+    },
+    {
+      "name": "Ottyavr",
+      "abbreviation": "Ott",
+      "days": 28
+    },
+    {
+      "name": "Neyavr",
+      "abbreviation": "Ney",
+      "days": 28
+    },
+    {
+      "name": "Dekavr",
+      "abbreviation": "Dek",
+      "days": 28
+    }
+  ],
+  "weekdays": [
+    {
+      "name": "Vasarnap",
+      "abbreviation": "Vas"
+    },
+    {
+      "name": "Hetfo",
+      "abbreviation": "Het"
+    },
+    {
+      "name": "Kedd",
+      "abbreviation": "Ked"
+    },
+    {
+      "name": "Szerda",
+      "abbreviation": "Sze"
+    },
+    {
+      "name": "Cstuirtok",
+      "abbreviation": "Cst"
+    },
+    {
+      "name": "Pentek",
+      "abbreviation": "Pen"
+    },
+    {
+      "name": "Szombat",
+      "abbreviation": "Szo"
+    }
+  ],
+  "intercalary": [
+  ],
+  "seasons": [
+    {
+      "name": "Winter",
+      "startMonth": 1,
+      "endMonth": 3,
+      "icon": "winter"
+    },
+    {
+      "name": "Spring",
+      "startMonth": 4,
+      "endMonth": 6,
+      "icon": "spring"
+    },
+    {
+      "name": "Summer",
+      "startMonth": 7,
+      "endMonth": 9,
+      "icon": "summer"
+    },
+    {
+      "name": "Autumn",
+      "startMonth": 10,
+      "endMonth": 12,
+      "icon": "fall"
+    }
+  ],
+  "moons": [
+    {
+      "name": "Mothers Eye",
+      "cycleLength": 28,
+      "firstNewMoon": { "year": 1, "month": 1, "day": 11 },
+      "phases": [
+        { "name": "New Moon", "length": 2, "singleDay": false, "icon": "new" },
+        {
+          "name": "Waxing Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-crescent"
+        },
+        { "name": "First Quarter", "length": 3, "singleDay": false, "icon": "first-quarter" },
+        {
+          "name": "Waxing Gibbous",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waxing-gibbous"
+        },
+        { "name": "Full Moon", "length": 3, "singleDay": false, "icon": "full" },
+        {
+          "name": "Waning Gibbous",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waning-gibbous"
+        },
+        { "name": "Last Quarter", "length": 3, "singleDay": false, "icon": "last-quarter" },
+        {
+          "name": "Waning Crescent",
+          "length": 4,
+          "singleDay": false,
+          "icon": "waning-crescent"
+        },
+        { "name": "Old Moon", "length": 1, "singleDay": true, "icon": "new" }
+      ]
+    }
+  ]
+}

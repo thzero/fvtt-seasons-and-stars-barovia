@@ -1,0 +1,26 @@
+{
+  "id": "seasons-and-stars-barovia",
+  "title": "Seasons & Stars - Barovia Calendar Pack",
+  "description": "Barovia calendars for my Curse of Strahd campaign.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "thZero"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+        "compatibility": {
+          "minimum": "0.7.0"
+        }
+      }
+    ]
+  }
+}

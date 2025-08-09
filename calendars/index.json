@@ -1,0 +1,43 @@
+{
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/main/schemas/calendar-collection-v1.0.0.json",
+  "name": "Barovia Collection",
+  "description": "Barovia calendars for Curse of Strahd campaigns.",
+  "version": "1.0.0",
+  "author": "thZero",
+  "calendars": [
+    {
+      "id": "barovia",
+      "name": "Barovia Ages Calendar",
+      "file": "barovia.json",
+      "description": "Based on the Curse of Strahd campaign information.",
+      "preview": "Sample format from Barovia",
+      "tags": [
+        "fantasy"
+      ],
+      "author": "thZero"
+    },
+    {
+      "id": "barovia-dark",
+      "name": "Barovia Dark AgesCalendar",
+      "file": "barvoia-dark.json",
+      "description": "Based on the Curse of Strahd campaign information.",
+      "preview": "Sample format from Barovia",
+      "tags": [
+        "fantasy"
+      ],
+      "author": "thZero"
+    },
+    {
+      "id": "barovia-secondary",
+      "name": "Barovia Calendar",
+      "description": "An extended Bravoia based on http://www.scabard.com/pbs/campaign/1127128/note/2519524.",
+      "file": "secondary.json",
+      "preview": "Sample format from Barovia",
+      "tags": [
+        "fantasy"
+      ],
+      "author": "thZero"
+    }
+  ],
+  "tags": ["fantasy", "homebrew"]
+}
