@@ -1,5 +1,4 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/thzero/fvtt-seasons-and-stars-barovia)
-![David](https://img.shields.io/david/thzero/fvtt-seasons-and-stars-barovia)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Seasons and Stars Calendar - Barovia Pack
