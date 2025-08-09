@@ -18,7 +18,7 @@ A calendar for Bravoia based on http://www.scabard.com/pbs/campaign/1127128/note
 
 ## Requirements
 
-(https://foundryvtt.com/packages/seasons-and-stars) module.
+[Seasons and Stars](https://foundryvtt.com/packages/seasons-and-stars) module.
 
 ## Installation
 
