@@ -3,7 +3,9 @@
 
 # Seasons and Stars Calendar - Barovia Pack
 
-A calendar pack for Barvoia and Ravenloft for use with Curse of Strahd campaigns.
+A community-created [Seasons and Stars](https://foundryvtt.com/packages/seasons-and-stars) calendar pack for Barvoia and Ravenloft for use with Curse of Strahd campaigns.  For more information calendar paks for Seasons and Stars see (https://docs.rayners.dev/seasons-and-stars/calendar-packs).
+
+For use with [Foundry VTT](https://foundryvtt.com/) version 13+.
 
 ## Calendars
 
@@ -18,7 +20,7 @@ A calendar for Bravoia based on http://www.scabard.com/pbs/campaign/1127128/note
 
 ## Requirements
 
-(https://foundryvtt.com/packages/seasons-and-stars) module.
+[Seasons and Stars](https://foundryvtt.com/packages/seasons-and-stars) module.
 
 ## Installation
 
